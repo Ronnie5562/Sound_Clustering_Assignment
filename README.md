@@ -1,5 +1,7 @@
 # Sound Clustering Project
 
+![Image](https://github.com/user-attachments/assets/d6cc9e9f-2cb8-4054-9dc0-67855710c0a4)
+
 ## Overview
 This project applies clustering techniques to unlabeled sound recordings using:
 - Mel-frequency cepstral coefficients (MFCCs) for feature extraction
